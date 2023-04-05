@@ -165,7 +165,6 @@ namespace OkulYönetimUygulaması
         }
 
         static void TumOgrenciListele_1()
-        //OkulClassta OgrenciListesini çeken metotu çağıracak
         {
             Console.WriteLine();
             Console.WriteLine("1-Bütün Öğrencileri Listele --------------------------------------------------");
@@ -182,7 +181,6 @@ namespace OkulYönetimUygulaması
         }
 
         static void SubeyeGoreOgrenciListele_2()
-        //OkulClasstan OgrenciListesini SubeyeGoreOgrenciListelemeMetotunu çağıracak
         {
             Console.WriteLine();
             Console.WriteLine("2-Şubeye Göre Ögrencileri Listele --------------------------------------------------");

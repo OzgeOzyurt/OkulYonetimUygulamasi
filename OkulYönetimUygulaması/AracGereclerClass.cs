@@ -21,6 +21,7 @@ namespace OkulYönetimUygulaması
             //Eğer girilen string veri int veriye dönüştürülebiliyor ise hata döndürülüp yazı girilmesi istenir.
             //Uygun giriş sağlanıldığında girilen giriş döndürülür.
 
+
             do
             {
                 try
